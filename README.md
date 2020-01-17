@@ -1,2 +1,2 @@
 # Additional-Comments
-Additional Comments for University of Alberta
+These are additional Comments for University of Alberta
